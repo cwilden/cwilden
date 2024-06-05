@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cwilden
-- 👀 I’m interested in healthcare/medical/biological software data analytics.
-- 🌱 I’m currently learning latest machine learning and nlp techniques. 
-- 💞️ I’m looking to collaborate on ml/nlp projects or kaggle projects.
+- 👀 I’m interested in healthcare/medical AI software companies.
+- 🌱 I’m currently learning how to leverage Generative AI in the healthcare domain. 
 - 📫 How to reach me : wildenborgchelsey@gmail.com
 
 <!---
