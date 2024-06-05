@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cwilden
 - 👀 I’m interested in healthcare/medical AI software companies.
-- 🌱 I’m currently learning how to leverage Generative AI in the healthcare domain. 
+- 🌱 I’m currently learning Generative AI. 
 - 📫 How to reach me : wildenborgchelsey@gmail.com
 
 <!---
